@@ -1,9 +1,0 @@
-  .bg-background {
-    background-color: hsl(var(--background));
-  }
-  .text-foreground {
-    color: hsl(var(--foreground));
-  }
-  .text-balance {
-    text-wrap: balance;
-  }
